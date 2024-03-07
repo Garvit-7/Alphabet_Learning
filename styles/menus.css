@@ -1,0 +1,32 @@
+.menu a {
+	display: block;
+	width:150px; 
+	height:150px; 
+	margin:auto !important; 
+	text-align:center;
+}
+
+.menu a img {
+	width: 60px; 
+	height:60px; 
+	margin-top:18%;
+}
+
+.menu h3, .menu .ui-block-a, .menu .ui-block-b {
+	text-align:center;
+}
+
+.menu{
+	min-height: screen;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center ;
+}
+
+.main{
+	min-height: screen;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
